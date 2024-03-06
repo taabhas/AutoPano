@@ -13,18 +13,31 @@ The classical method follows the illustrated algorithm:
 The code is provided in Wrapper.ipynb for the input images provided in Set1 Folder.
 
 ### Results
-
+#### Set 1
 The input images are:
 
 <p align="center">
-  <img src="Set1\1.jpg" alt="1" width="200"/>
-  <img src="Set1\2.jpg" alt="2" width="200"/>
-  <img src="Set1\3.jpg" alt="3" width="200"/>
+  <img src="InputData\Set2\1.jpg" alt="1" width="200"/>
+  <img src="InputData\Set2\2.jpg" alt="2" width="200"/>
+  <img src="InputData\Set2\3.jpg" alt="3" width="200"/>
 </p>
 
 The resulting stitched Panorama is:
 <p align="center">
-  <img src="Assets\pano_result.png" alt="euroc_mh_01_easy" width="500"/>
+  <img src="OutputResults\Output1.png" alt="euroc_mh_01_easy" width="500"/>
+</p>
+
+#### Set 2
+The input images are:
+
+<p align="center">
+  <img src="InputData\CustomSet\custom1.jpg" alt="1" width="200"/>
+  <img src="InputData\CustomSet\custom2.jpg" alt="2" width="200"/>
+</p>
+
+The resulting stitched Panorama is:
+<p align="center">
+  <img src="OutputResults\Output2.png" alt="euroc_mh_01_easy" width="500"/>
 </p>
 
 
