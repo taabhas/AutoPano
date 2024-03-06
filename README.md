@@ -17,14 +17,14 @@ The code is provided in Wrapper.ipynb for the input images provided in Set1 Fold
 The input images are:
 
 <p align="center">
-  <img src="Set1\1.jpg" alt="1" width="100"/>
-  <img src="Set1\2.jpg" alt="2" width="100"/>
-  <img src="Set1\3.jpg" alt="3" width="100"/>
+  <img src="Set1\1.jpg" alt="1" width="200"/>
+  <img src="Set1\2.jpg" alt="2" width="200"/>
+  <img src="Set1\3.jpg" alt="3" width="200"/>
 </p>
 
 The resulting stitched Panorama is:
 <p align="center">
-  <img src="Assets\pano_result.png" alt="euroc_mh_01_easy" width="300"/>
+  <img src="Assets\pano_result.png" alt="euroc_mh_01_easy" width="500"/>
 </p>
 
 
